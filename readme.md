@@ -1,5 +1,5 @@
 
-##Downloads All Galary Pics from https://www.laquan.com/.
+## Downloads All Galary Pics from https://www.laquan.com/.
 * Once signin
 * open developer tool
 * copy and paste the code into the Javascrip console 
